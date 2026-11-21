@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+dist/
+dlls/
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+.idea/
+.DS_Store
